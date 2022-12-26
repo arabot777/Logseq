@@ -1,2 +1,2 @@
-# Logseq-
+# Logseq
 笔记本
